@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - 4-puts.c
+ * main -Prints out a string to stdout.
  * description -Write a C program that prints exactly
  *
  * Return: Always 0 (Success)
